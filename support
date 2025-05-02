@@ -1,0 +1,75 @@
+SPF ON + — Support Guide
+
+Welcome to SPF ON +! This document explains the single, streamlined way to get help and share feedback so you can keep your sun‑safety experience running smoothly.
+
+1  Need help right now?
+
+How to reach us
+
+When to use it
+
+Typical response time
+
+Email (support@spfonplus.com)
+
+Bug reports • Account or billing issues • Feature requests • General questions
+
+1–2 business days
+
+Tip: Attach screenshots or a short screen‑recording to help us diagnose issues faster. Please include your iOS version and app version (found in Settings → About → SPF ON + Version).
+
+2  Frequently Asked Questions
+
+“Why can’t I see my city’s UV index?”Make sure Location Services are enabled or that you’ve typed the city name exactly as it appears in Apple Maps.
+
+“How do I change the re‑apply timer?”Tap the timer card → gear icon → choose anywhere from 30 minutes to 4 hours.
+
+“Will the app drain my battery?”No. We fetch UV data only on‑demand and never run GPS in the background.
+
+3  Reporting Bugs
+
+Collect details: app version, device model, iOS version, and the steps that trigger the issue.
+
+Email us with the subject line Bug – vX.Y.Z – <brief summary>.
+
+Include screenshots or screen‑recordings if possible.
+
+We’ll acknowledge within one business day and keep you updated until a fix ships.
+
+4  Requesting Features
+
+Have an idea to make SPF ON + better? Email us with the subject line Feature Request – <your idea>. We review requests monthly and publish a public roadmap in our newsletter.
+
+5  Troubleshooting Checklist
+
+Issue
+
+Quick fix
+
+App won’t open
+
+Force‑quit → relaunch. Still stuck? Reinstall (your data is backed up via iCloud).
+
+Notifications not arriving
+
+iOS Settings → Notifications → SPF ON + → ensure Allow Notifications is on.
+
+Location error
+
+Toggle Airplane Mode off/on → check that Location Services are enabled for SPF ON +.
+
+6  Data & Privacy
+
+We never share or sell your location data.
+
+UV requests are anonymized; no account is needed for the free tier.
+
+iCloud provides encrypted backup and restore.
+
+Read the full Privacy Policy in‑app under Settings → Legal → Privacy Policy.
+
+7  Contact
+
+Email: support@spfonplus.com
+
+Last updated: 2025‑05‑02
